@@ -23,7 +23,8 @@
         <li>Unit Testing</li>
         <li>Alamofire</li>
         <li>Combine</li>
-      <li>Search Functionality
+        <li>Off-line working functionality</li>
+        <li>Search Functionality
     </li>    </ul>
 
 </html>
